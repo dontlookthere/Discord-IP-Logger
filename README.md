@@ -13,8 +13,8 @@ right: https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxx-xx
 
 Step 4. Copy your "right" webhook and paste into code.
 
-Step 5. Change username to what you want to show. In my example username is set to IP LOGGER.
+Step 5. Change username to what you want to show. In my example username is set to **IP LOGGER**.
 
-Step 6. Run code and check discord for message
+Step 6. Run code and check discord for message.
 
 I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS CODE*******************
